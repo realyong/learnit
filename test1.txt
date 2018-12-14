@@ -3,3 +3,4 @@ change the second time£¡
 test abc!
 commit one!
 commit two!
+test conflict!
